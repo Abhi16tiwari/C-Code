@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <stdli.h>
+
+
+int main ()
+{
+  int a[];
+  
+  printf(" Enter values of array (max 5 values)\n");
+  
+
+}
